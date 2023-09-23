@@ -1,7 +1,8 @@
-# Hello World
+#Merge 
 
-```html
+Fuciona dos commits  y dependen los dos 
 
-<h1> Hello </h1>
 
-```
+# CherryPite
+
+Copiar y no depende de la rama de la que copio
